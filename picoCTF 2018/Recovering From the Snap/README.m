@@ -16,3 +16,4 @@ After little bit of research I came across this post on Stackoverflow
 https://stackoverflow.com/questions/36530643/use-binwalk-to-extract-all-files/53889479#53889479
 
 command : binwalk --dd='.*' animals.dd
+flag : picoCTF{th3_5n4p_happ3n3d}
